@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousinoma.github.io/sitemap.html.gz
+Sitemap: https://ousinoma.github.io/app/sitemap.html.gz
+Sitemap: https://ousinoma.github.io/assets/sitemap.html.gz
+Sitemap: https://ousinoma.github.io/css/sitemap.html.gz
+Sitemap: https://ousinoma.github.io/includes/sitemap.html.gz
+Sitemap: https://ousinoma.github.io/item/sitemap.html.gz
+Sitemap: https://ousinoma.github.io/src/sitemap.html.gz
